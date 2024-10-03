@@ -3633,7 +3633,7 @@ figcaption {
   }
 
   .footer8_logo {
-    margin-bottom: 39px;
+    margin-bottom: 57px;
     padding-right: 0;
   }
 
@@ -3667,12 +3667,13 @@ figcaption {
   .image-3 {
     margin-top: -310px;
     margin-left: 415px;
-    display: inline-block;
+    display: none;
   }
 
   .image-4 {
     margin-top: -270px;
     margin-left: -56px;
+    display: none;
   }
 
   .gallery24_component-copy {
